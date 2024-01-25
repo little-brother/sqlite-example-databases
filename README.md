@@ -1,1 +1,1 @@
-SQLite examples databases 
+SQLite example databases 
